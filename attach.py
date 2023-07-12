@@ -7,7 +7,7 @@ from email import encoders
 # Iniciamos los parámetros del script
 remitente = 'joao.jaramillo@gmail.com'
 destinatarios = ['jojaramillo@itsqmet.edu.ec', 'mpaula_12@live.com', 'abrylmusic@hotmail.com', 'lyulan@itsqmet.edu.ec']
-asunto = 'Consulta a base de datos'
+asunto = 'Reporte de Base de Datos'
 cuerpo = 'Adjunto reporte con los registros de la base de datos'
 ruta_adjunto = 'C:\\Users\\jpjar\\Documents\\Instituto\\5toSemestre\\Integracion_SI\\ConsultaPythonBD\\resultado_consulta.pdf'
 nombre_adjunto = 'resultado_consulta.pdf'
