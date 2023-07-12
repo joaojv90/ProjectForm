@@ -70,7 +70,7 @@ content.append(table)
 # Generar el PDF con la lista de elementos
 pdf.build(content)
 
-print("PDF creado exitosamente.")
+print("PDF creado exitosamente")
 
 time.sleep(5)
 subprocess.call(["python", "C:/Users/jpjar/Documents/Instituto/5toSemestre/Integracion_SI/ConsultaPythonBD/attach.py"])
