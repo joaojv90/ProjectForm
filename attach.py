@@ -8,7 +8,7 @@ from email import encoders
 remitente = 'joao.jaramillo@gmail.com'
 destinatarios = ['jojaramillo@itsqmet.edu.ec', 'mpaula_12@live.com', 'abrylmusic@hotmail.com', 'lyulan@itsqmet.edu.ec']
 asunto = 'Reporte de Base de Datos'
-cuerpo = 'Adjunto reporte con los registros de la base de datos'
+cuerpo = 'Adjunto reporte con los registros de la Base de Datos'
 ruta_adjunto = 'C:\\Users\\jpjar\\Documents\\Instituto\\5toSemestre\\Integracion_SI\\ConsultaPythonBD\\resultado_consulta.pdf'
 nombre_adjunto = 'resultado_consulta.pdf'
 
